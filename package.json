@@ -1,6 +1,6 @@
 {
   "name": "folder-size",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "get combined file size per extension",
   "main": "index.js",
   "scripts": {
