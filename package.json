@@ -10,5 +10,6 @@
   "license": "MIT",
   "devDependencies": {
     "tape": "^2.13.0"
-  }
+  },
+  "repository": "git://github.com/e-conomic/folder-size.git"
 }
